@@ -1,2 +1,4 @@
 # Dijekalvickri
-A simple calculator app in command line interface
+A basic calculator (among others) console app 
+
+![Screenshot of the homescreen](./screenshot.png)
